@@ -1,0 +1,12 @@
+{
+  "nome":"CAMILLY",
+  "user-type": "usuário",
+  "unidade": "EPTEC",
+  "produtos":[
+      { "id": "1", "title": "bolacha tortinha" },
+      { "id": "2", "title": "suco de uva" },
+      { "id": "3", "title": "abacate" },
+      { "id": "4", "title": "caixa de bombom" },
+      { "id": "5", "title": "sprite" }
+  ]
+}
